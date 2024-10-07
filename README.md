@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my travel website**
 
-- 🌱 I’m currently improving my **Python and Java**
+- 🌱 I’m currently working on a car scraper project
 
 - 👨‍💻 All of my projects are available at [https://jzho954.github.io/portfolio-new/](https://jzho954.github.io/portfolio-new/)
 
